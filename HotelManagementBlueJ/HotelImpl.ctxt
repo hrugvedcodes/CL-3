@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HotelImpl
+comment1.params=
+comment1.target=HotelImpl()
+comment2.params=guestName
+comment2.target=java.lang.String\ bookRoom(java.lang.String)
+comment3.params=guestName
+comment3.target=java.lang.String\ cancelBooking(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getBookings()
+numComments=5
